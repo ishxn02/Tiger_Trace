@@ -115,7 +115,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Special thanks to Dr. Wee Kek Tan for mentorship and guidance during the project.
-- Sponsored by the government of Chhattisgarh and the Biodiversity Board.
 - Thanks to the National University of Singapore for the research internship opportunity.
 
 ---
